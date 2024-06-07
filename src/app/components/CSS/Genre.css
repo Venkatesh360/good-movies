@@ -1,0 +1,6 @@
+.scroll-container{
+  display: flex ;
+  overflow: scroll;
+  scrollbar-width: none;
+  padding-left: 20px;
+}
