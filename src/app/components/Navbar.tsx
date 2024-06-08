@@ -113,7 +113,7 @@ const Navbar = ({ display }) => {
         </>
       ) : (
         <div className="flex flex-grow justify-end">
-          <button onClick={() => router.push('/login')} className="px-4 py-2 bg-blue-500 hover:bg-blue-700 text-white font-bold rounded">
+          <button onClick={() => router.push('/login')} className="px-4 text-md py-2 bg-blue-500 hover:bg-blue-700 text-white font-bold rounded mr-16">
             Login
           </button>
         </div>
