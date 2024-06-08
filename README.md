@@ -6,6 +6,13 @@ Movie details fetched from the TMDB API are displayed using **Flip Cards** to be
 
 <img src="https://github.com/Venkatesh360/good-movies-frontend/blob/main/screenshots/image.png" alt="Alt text" style="width: 90%;">
 
+## Trailer Page
+<div style="display: flex; flex-direction: row; justify-content: flex-start; align-items: flex-start; width: 100%;">
+<img src="https://github.com/Venkatesh360/good-movies-frontend/blob/main/screenshots/trailer_page1.png" alt="Alt text" style="width: 45%;">
+<img src="https://github.com/Venkatesh360/good-movies-frontend/blob/main/screenshots/trailer_page2.png" alt="Alt text" style="width: 45%;">
+</div>
+
+
 ## Watchlist
 Users can maintain a watchlist to keep track of movies they plan to watch. This feature helps users organize their movie-watching schedule and ensures they don't miss any recommendations.
 
