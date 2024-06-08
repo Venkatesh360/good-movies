@@ -52,16 +52,16 @@ To run the project locally:
     npm run dev
     ```
 
-### Backend
+ ## [ Backend ](https://github.com/Venkatesh360/pyFire)
 
 1. Clone the backend repository:
     ```yaml
-    git clone https://github.com/Venkatesh360/good-movies-backend.git
+    git clone https://github.com/Venkatesh360/pyFire.git
     ```
 
 2. Navigate to the project directory:
     ```yaml
-    cd good-movies-backend
+    cd pyFire
     ```
 
 3. Install dependencies:
@@ -74,4 +74,10 @@ To run the project locally:
     flask run
     ```
 
-Enjoy exploring and discovering great movies with Good Movies!
+## project_requirements:
+  ### frontend:
+    - Firebase configuration file
+  ### backend:
+    - Firebase Admin `configuration.json` file
+    - Cosine similarity matrix file (saved as a pickle file within the `pickle` folder)
+
