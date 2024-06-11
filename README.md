@@ -7,10 +7,18 @@ Movie details fetched from the TMDB API are displayed using **Flip Cards** to be
 <img src="https://github.com/Venkatesh360/good-movies-frontend/blob/main/screenshots/image.png" alt="Alt text" style="width: 90%;">
 
 ## Trailer Page
-<div style="display: flex; flex-direction: row; justify-content: flex-start; align-items: flex-start; width: 100%;">
-<img src="https://github.com/Venkatesh360/good-movies-frontend/blob/main/screenshots/trailer_page1.png" alt="Alt text" style="width: 45%;">
-<img src="https://github.com/Venkatesh360/good-movies-frontend/blob/main/screenshots/trailer_page2.png" alt="Alt text" style="width: 45%;">
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Venkatesh360/good-movies-frontend/blob/main/screenshots/trailer_page1.png" alt="Alt text" width="500">
+    </td>
+    <td valign="top">
+      <img src="https://github.com/Venkatesh360/good-movies-frontend/blob/main/screenshots/trailer_page2.png" alt="Alt text" width="500">
+    </td>
+  </tr>
+</table>
+
+
 
 
 ## Watchlist
